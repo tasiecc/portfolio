@@ -4,7 +4,8 @@
 
 This portfolio website is a personal showcase developed using a blend of web technologies including HTML, CSS, JavaScript, and Bootstrap. It is designed to be fully responsive, adapting gracefully to various screen sizes. The site serves as a platform to exhibit a photographer's portfolio, featuring sections such as an about page, contact information, gallery, and more.
 
-![Tascomm Bootstrap Portfolio Template2](https://github.com/tasiecc/portfolio/assets/64579151/44dfe1be-d30c-472c-a288-25d4aa8803b5)
+![Tascomm Bootstrap Portfolio Template2](https://github.com/tasiecc/portfolio/assets/64579151/06efc1a4-6711-4aa8-96f7-9515677a3f95)
+
 
 ## Key Features
 
