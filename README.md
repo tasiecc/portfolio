@@ -46,4 +46,15 @@ This portfolio website is a personal showcase developed using a blend of web tec
 
    ```sh
    git clone https://github.com/tasiecc/portfolio-website.git
+Open index.html in your web browser to view the website.
 
+Customize the code as needed using your chosen code editor.
+
+## Customization
+
+You can easily customize various aspects of the website:
+
+    Modify images and text content in index.html.
+    Adjust the color palette variables in main.css.
+    Update navigation links in the header section.
+    Edit social media links in the header section.
